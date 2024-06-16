@@ -7,6 +7,7 @@ Welcome to the Competitive Programming Repository! This repository contains solu
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
+- [License](#license)
 - [Contact](#contact)
 
 ## Repository Structure
@@ -89,6 +90,10 @@ We welcome contributions from the community! To contribute:
 6. **Create a pull request:**
 
    Go to the original repository on GitHub and create a pull request from your fork.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
