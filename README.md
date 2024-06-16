@@ -27,6 +27,7 @@ The repository is structured as follows:
 │   │   ├── C.cpp
 │   │   └── D.cpp
 │   └── ...
+├── LICENSE
 └── README.md
 ```
 
